@@ -1,0 +1,32 @@
+{
+  "fontFile": "fonts/JiangChengYuanTi/JiangChengYuanTi-500W.ttf",
+  "fileSha256": "8e7cc1282823e4d94b416f7ca16a35712d3e2f13c3e240243967ae665b77ec4e",
+  "family": "JiangChengYuanTi",
+  "postscriptName": "JiangChengYuanTi-500W",
+  "version": [
+    "Version 3.6  2021/10/22"
+  ],
+  "weight": 500,
+  "axes": [],
+  "glyphs": 33166,
+  "licenseId": "OFL-1.1",
+  "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+  "copyright": [],
+  "manufacturer": [],
+  "designer": [
+    "LiuPeng"
+  ],
+  "embeddedLicense": [
+    "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+  ],
+  "embeddedLicenseUrl": [
+    "http://scripts.sil.org/OFL"
+  ],
+  "referenceUrl": null,
+  "onlineReferenceCheck": "按当前字体文件内的OFL声明核对；没有另行确认作者在线发布页。",
+  "sampleCoverage": {
+    "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+    "missingCharacters": ""
+  },
+  "latinOnlyInThisPackage": false
+}

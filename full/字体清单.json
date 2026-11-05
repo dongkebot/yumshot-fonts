@@ -1,0 +1,576 @@
+[
+  {
+    "fontFile": "fonts/Yozai/Yozai-Regular.ttf",
+    "fileSha256": "c2d042c3c4c1a75f09a4becc0ce6a31e8d6f7854abd803fd20d7fab6a6a37d8a",
+    "family": "悠哉字体",
+    "postscriptName": "Yozai",
+    "version": [
+      "Version 0.85;October 1, 2020;FontCreator 13.0.0.2613 64-bit"
+    ],
+    "weight": 400,
+    "axes": [],
+    "glyphs": 20709,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox."
+    ],
+    "manufacturer": [],
+    "designer": [],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/lxgw/yozai-font/blob/master/OFL.txt",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/Yozai/Yozai-Bold.ttf",
+    "fileSha256": "5c9eee84d1f6870379b552c97317f3d6a9c499f4c77a82704c3263870fe1ab01",
+    "family": "悠哉字体",
+    "postscriptName": "Yozai-Bold",
+    "version": [
+      "Version 0.85;October 1, 2020;FontCreator 13.0.0.2613 64-bit"
+    ],
+    "weight": 700,
+    "axes": [],
+    "glyphs": 20707,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox."
+    ],
+    "manufacturer": [],
+    "designer": [],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/lxgw/yozai-font/blob/master/OFL.txt",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/SourceHanSansSC/SourceHanSansSC-Heavy.otf",
+    "fileSha256": "4a8b2ee4f041fa56c7a5561f36e13ed6780eec66161c30274fc90b0c5ba7cea2",
+    "family": "Source Han Sans SC",
+    "postscriptName": "SourceHanSansSC-Heavy",
+    "version": [
+      "Version 2.004;hotconv 1.0.118;makeotfexe 2.5.65603"
+    ],
+    "weight": 900,
+    "axes": [],
+    "glyphs": 65535,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'."
+    ],
+    "manufacturer": [
+      "Adobe"
+    ],
+    "designer": [
+      "Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications 산돌커뮤니케이션, Soo-young JANG 장수영 & Joo-yeon KANG 강주연 (hangul elements, letters & syllables)"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/SourceHanSansSC/SourceHanSansSC-Regular.otf",
+    "fileSha256": "84bbd4ace91d327b3ad1a581c688196278a4e41308520176f419180064e4af2b",
+    "family": "Source Han Sans SC",
+    "postscriptName": "SourceHanSansSC-Regular",
+    "version": [
+      "Version 2.004;hotconv 1.0.118;makeotfexe 2.5.65603"
+    ],
+    "weight": 400,
+    "axes": [],
+    "glyphs": 65535,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'."
+    ],
+    "manufacturer": [
+      "Adobe"
+    ],
+    "designer": [
+      "Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications 산돌커뮤니케이션, Soo-young JANG 장수영 & Joo-yeon KANG 강주연 (hangul elements, letters & syllables)"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/JiangChengYuanTi/JiangChengYuanTi-500W.ttf",
+    "fileSha256": "8e7cc1282823e4d94b416f7ca16a35712d3e2f13c3e240243967ae665b77ec4e",
+    "family": "JiangChengYuanTi",
+    "postscriptName": "JiangChengYuanTi-500W",
+    "version": [
+      "Version 3.6  2021/10/22"
+    ],
+    "weight": 500,
+    "axes": [],
+    "glyphs": 33166,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [],
+    "manufacturer": [],
+    "designer": [
+      "LiuPeng"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": null,
+    "onlineReferenceCheck": "按当前字体文件内的OFL声明核对；没有另行确认作者在线发布页。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/JiangChengYuanTi/JiangChengYuanTi-700W.ttf",
+    "fileSha256": "f096f0f3dcb27194578d604c123e305b4cf1030e852887a852d283a03cc2f422",
+    "family": "JiangChengYuanTi",
+    "postscriptName": "JiangChengYuanTi-700W",
+    "version": [
+      "Version 3.6  2021/10/22"
+    ],
+    "weight": 700,
+    "axes": [],
+    "glyphs": 33166,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [],
+    "manufacturer": [],
+    "designer": [
+      "LiuPeng"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": null,
+    "onlineReferenceCheck": "按当前字体文件内的OFL声明核对；没有另行确认作者在线发布页。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/Gabarito/Gabarito-Variable.ttf",
+    "fileSha256": "1195665410acab3e49e3b16d563d2385fd67d66c5b9260713b02c69c09821895",
+    "family": "Gabarito",
+    "postscriptName": "Gabarito-Regular",
+    "version": [
+      "Version 1.000"
+    ],
+    "weight": 400,
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 400.0,
+        "default": 400.0,
+        "max": 900.0
+      }
+    ],
+    "glyphs": 519,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright 2023 The Gabarito Project Authors (https://github.com/naipefoundry/gabarito)"
+    ],
+    "manufacturer": [
+      "Naipe Foundry"
+    ],
+    "designer": [
+      "Leandro Assis / Alvaro Franca / Felipe Casaprima"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+    ],
+    "embeddedLicenseUrl": [
+      "https://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/naipefoundry/gabarito",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": "春日限定，中文设计与留白。"
+    },
+    "latinOnlyInThisPackage": true
+  },
+  {
+    "fontFile": "fonts/SourceHanSerifCN/SourceHanSerifCN-Regular.otf",
+    "fileSha256": "1ddaf8183212f81e5b9a5b8c87a24aab8b7d2ff8f05eb3f6eaab341a7a285e58",
+    "family": "Source Han Serif CN",
+    "postscriptName": "SourceHanSerifCN-Regular",
+    "version": [
+      "Version 1.000;PS 1;hotconv 16.6.53;makeotf.lib2.5.65590"
+    ],
+    "weight": 400,
+    "axes": [],
+    "glyphs": 30995,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'."
+    ],
+    "manufacturer": [
+      "Adobe Systems Incorporated"
+    ],
+    "designer": [
+      "Ryoko NISHIZUKA 西塚涼子 (kana & ideographs); Frank Grießhammer (Latin, Greek & Cyrillic); Wenlong ZHANG 张文龙 (bopomofo); Sandoll Communications 산돌커뮤니케이션, Soohyun PARK 박수현, Yejin WE 위예진 & Donghoon HAN 한동훈 (hangul elements, letters & syllables)"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/adobe-fonts/source-han-serif/blob/master/LICENSE.txt",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/SourceHanSerifCN/SourceHanSerifCN-Bold.otf",
+    "fileSha256": "90118f6c20e798e12ea9e5b476ce920de94de2f505fc83fe641989d32da38a65",
+    "family": "Source Han Serif CN",
+    "postscriptName": "SourceHanSerifCN-Bold",
+    "version": [
+      "Version 1.000;PS 1;hotconv 16.6.53;makeotf.lib2.5.65590"
+    ],
+    "weight": 700,
+    "axes": [],
+    "glyphs": 30995,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'."
+    ],
+    "manufacturer": [
+      "Adobe Systems Incorporated"
+    ],
+    "designer": [
+      "Ryoko NISHIZUKA 西塚涼子 (kana & ideographs); Frank Grießhammer (Latin, Greek & Cyrillic); Wenlong ZHANG 张文龙 (bopomofo); Sandoll Communications 산돌커뮤니케이션, Soohyun PARK 박수현, Yejin WE 위예진 & Donghoon HAN 한동훈 (hangul elements, letters & syllables)"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/adobe-fonts/source-han-serif/blob/master/LICENSE.txt",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/SourceHanSerifCN/SourceHanSerifCN-Heavy.otf",
+    "fileSha256": "78101f93fb76951da79728a7ece95a974fb8f95f2024fa50792bc79627951a07",
+    "family": "Source Han Serif CN",
+    "postscriptName": "SourceHanSerifCN-Heavy",
+    "version": [
+      "Version 1.000;PS 1;hotconv 16.6.53;makeotf.lib2.5.65590"
+    ],
+    "weight": 900,
+    "axes": [],
+    "glyphs": 30995,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'."
+    ],
+    "manufacturer": [
+      "Adobe Systems Incorporated"
+    ],
+    "designer": [
+      "Ryoko NISHIZUKA 西塚涼子 (kana & ideographs); Frank Grießhammer (Latin, Greek & Cyrillic); Wenlong ZHANG 张文龙 (bopomofo); Sandoll Communications 산돌커뮤니케이션, Soohyun PARK 박수현, Yejin WE 위예진 & Donghoon HAN 한동훈 (hangul elements, letters & syllables)"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/adobe-fonts/source-han-serif/blob/master/LICENSE.txt",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/SourceHanSerifCN/SourceHanSerifCN-ExtraLight.otf",
+    "fileSha256": "ce698f51e49dbe89bb8663ed02da541ce50b8cae4cd6bc3110ad52d969296db4",
+    "family": "Source Han Serif CN",
+    "postscriptName": "SourceHanSerifCN-ExtraLight",
+    "version": [
+      "Version 1.000;PS 1;hotconv 16.6.53;makeotf.lib2.5.65590"
+    ],
+    "weight": 250,
+    "axes": [],
+    "glyphs": 30995,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'."
+    ],
+    "manufacturer": [
+      "Adobe Systems Incorporated"
+    ],
+    "designer": [
+      "Ryoko NISHIZUKA 西塚涼子 (kana & ideographs); Frank Grießhammer (Latin, Greek & Cyrillic); Wenlong ZHANG 张文龙 (bopomofo); Sandoll Communications 산돌커뮤니케이션, Soohyun PARK 박수현, Yejin WE 위예진 & Donghoon HAN 한동훈 (hangul elements, letters & syllables)"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/adobe-fonts/source-han-serif/blob/master/LICENSE.txt",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/Alegreya/Alegreya-Regular.ttf",
+    "fileSha256": "b2652047d486c44b9da87d5bf0899f989a2423d091e095cd5c03d3f35ce04c0f",
+    "family": "Alegreya",
+    "postscriptName": "Alegreya-Regular",
+    "version": [
+      "Version 2.003; ttfautohint (v1.6)"
+    ],
+    "weight": 400,
+    "axes": [],
+    "glyphs": 2108,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya)"
+    ],
+    "manufacturer": [
+      "Huerta Tipografica"
+    ],
+    "designer": [
+      "Juan Pablo del Peral"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/huertatipografica/Alegreya",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": "春日限定，中文设计与留白。"
+    },
+    "latinOnlyInThisPackage": true
+  },
+  {
+    "fontFile": "fonts/Alegreya/Alegreya-Italic.ttf",
+    "fileSha256": "b5f8340d36078797780df0a23392a24f4c67c27429303eedee40ffeff111f417",
+    "family": "Alegreya",
+    "postscriptName": "Alegreya-Italic",
+    "version": [
+      "Version 2.003; ttfautohint (v1.6)"
+    ],
+    "weight": 400,
+    "axes": [],
+    "glyphs": 2114,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya)"
+    ],
+    "manufacturer": [
+      "Huerta Tipografica"
+    ],
+    "designer": [
+      "Juan Pablo del Peral"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/huertatipografica/Alegreya",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": "春日限定，中文设计与留白。"
+    },
+    "latinOnlyInThisPackage": true
+  },
+  {
+    "fontFile": "fonts/Alegreya/Alegreya-BlackItalic.ttf",
+    "fileSha256": "dfcbeea98b037ca4fa4fe195db3b86c9de6bee585df14c4a960587637cc6321e",
+    "family": "Alegreya",
+    "postscriptName": "Alegreya-BlackItalic",
+    "version": [
+      "Version 2.003; ttfautohint (v1.6)"
+    ],
+    "weight": 900,
+    "axes": [],
+    "glyphs": 2114,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya)"
+    ],
+    "manufacturer": [
+      "Huerta Tipografica"
+    ],
+    "designer": [
+      "Juan Pablo del Peral"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/huertatipografica/Alegreya",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": "春日限定，中文设计与留白。"
+    },
+    "latinOnlyInThisPackage": true
+  },
+  {
+    "fontFile": "fonts/LongCang/LongCang-Regular.ttf",
+    "fileSha256": "589c21c68807f3105e885c4218efb7046be0a8b5c78c395c5371c01e7cee1b2d",
+    "family": "Long Cang",
+    "postscriptName": "LongCang-Regular",
+    "version": [
+      "Version 2.001"
+    ],
+    "weight": 400,
+    "axes": [],
+    "glyphs": 7016,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)"
+    ],
+    "manufacturer": [
+      "ZhongQi"
+    ],
+    "designer": [
+      "ZhongQi"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    ],
+    "embeddedLicenseUrl": [
+      "http://scripts.sil.org/OFL"
+    ],
+    "referenceUrl": "https://github.com/googlefonts/longcang",
+    "onlineReferenceCheck": "按当前字体文件内的OFL声明核对；内嵌作者仓库本次返回404。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": ""
+    },
+    "latinOnlyInThisPackage": false
+  },
+  {
+    "fontFile": "fonts/Montserrat/Montserrat-Variable.ttf",
+    "fileSha256": "498dc34d0fa45288e0ac5345bd385c98bf81c56ee70209aacfb4a22a6510697c",
+    "family": "Montserrat",
+    "postscriptName": "Montserrat-Thin",
+    "version": [
+      "Version 9.000"
+    ],
+    "weight": 100,
+    "axes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 100.0,
+        "max": 900.0
+      }
+    ],
+    "glyphs": 2677,
+    "licenseId": "OFL-1.1",
+    "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+    "copyright": [
+      "Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)"
+    ],
+    "manufacturer": [
+      "Julieta Ulanovsky"
+    ],
+    "designer": [
+      "Julieta Ulanovsky"
+    ],
+    "embeddedLicense": [
+      "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+    ],
+    "embeddedLicenseUrl": [
+      "https://openfontlicense.org"
+    ],
+    "referenceUrl": "https://github.com/JulietaUla/Montserrat",
+    "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+    "sampleCoverage": {
+      "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+      "missingCharacters": "春日限定，中文设计与留白。"
+    },
+    "latinOnlyInThisPackage": true
+  }
+]

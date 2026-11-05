@@ -1,0 +1,36 @@
+{
+  "fontFile": "fonts/LongCang/LongCang-Regular.ttf",
+  "fileSha256": "589c21c68807f3105e885c4218efb7046be0a8b5c78c395c5371c01e7cee1b2d",
+  "family": "Long Cang",
+  "postscriptName": "LongCang-Regular",
+  "version": [
+    "Version 2.001"
+  ],
+  "weight": 400,
+  "axes": [],
+  "glyphs": 7016,
+  "licenseId": "OFL-1.1",
+  "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+  "copyright": [
+    "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)"
+  ],
+  "manufacturer": [
+    "ZhongQi"
+  ],
+  "designer": [
+    "ZhongQi"
+  ],
+  "embeddedLicense": [
+    "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  ],
+  "embeddedLicenseUrl": [
+    "http://scripts.sil.org/OFL"
+  ],
+  "referenceUrl": "https://github.com/googlefonts/longcang",
+  "onlineReferenceCheck": "按当前字体文件内的OFL声明核对；内嵌作者仓库本次返回404。",
+  "sampleCoverage": {
+    "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+    "missingCharacters": ""
+  },
+  "latinOnlyInThisPackage": false
+}

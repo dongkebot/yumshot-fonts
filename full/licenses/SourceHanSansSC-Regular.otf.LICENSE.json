@@ -1,0 +1,36 @@
+{
+  "fontFile": "fonts/SourceHanSansSC/SourceHanSansSC-Regular.otf",
+  "fileSha256": "84bbd4ace91d327b3ad1a581c688196278a4e41308520176f419180064e4af2b",
+  "family": "Source Han Sans SC",
+  "postscriptName": "SourceHanSansSC-Regular",
+  "version": [
+    "Version 2.004;hotconv 1.0.118;makeotfexe 2.5.65603"
+  ],
+  "weight": 400,
+  "axes": [],
+  "glyphs": 65535,
+  "licenseId": "OFL-1.1",
+  "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+  "copyright": [
+    "© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'."
+  ],
+  "manufacturer": [
+    "Adobe"
+  ],
+  "designer": [
+    "Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications 산돌커뮤니케이션, Soo-young JANG 장수영 & Joo-yeon KANG 강주연 (hangul elements, letters & syllables)"
+  ],
+  "embeddedLicense": [
+    "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+  ],
+  "embeddedLicenseUrl": [
+    "http://scripts.sil.org/OFL"
+  ],
+  "referenceUrl": "https://github.com/adobe-fonts/source-han-sans/blob/master/LICENSE.txt",
+  "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+  "sampleCoverage": {
+    "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+    "missingCharacters": ""
+  },
+  "latinOnlyInThisPackage": false
+}

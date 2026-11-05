@@ -1,0 +1,36 @@
+{
+  "fontFile": "fonts/Alegreya/Alegreya-Regular.ttf",
+  "fileSha256": "b2652047d486c44b9da87d5bf0899f989a2423d091e095cd5c03d3f35ce04c0f",
+  "family": "Alegreya",
+  "postscriptName": "Alegreya-Regular",
+  "version": [
+    "Version 2.003; ttfautohint (v1.6)"
+  ],
+  "weight": 400,
+  "axes": [],
+  "glyphs": 2108,
+  "licenseId": "OFL-1.1",
+  "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+  "copyright": [
+    "Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya)"
+  ],
+  "manufacturer": [
+    "Huerta Tipografica"
+  ],
+  "designer": [
+    "Juan Pablo del Peral"
+  ],
+  "embeddedLicense": [
+    "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  ],
+  "embeddedLicenseUrl": [
+    "http://scripts.sil.org/OFL"
+  ],
+  "referenceUrl": "https://github.com/huertatipografica/Alegreya",
+  "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+  "sampleCoverage": {
+    "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+    "missingCharacters": "春日限定，中文设计与留白。"
+  },
+  "latinOnlyInThisPackage": true
+}

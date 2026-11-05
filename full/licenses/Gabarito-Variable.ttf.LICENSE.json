@@ -1,0 +1,43 @@
+{
+  "fontFile": "fonts/Gabarito/Gabarito-Variable.ttf",
+  "fileSha256": "1195665410acab3e49e3b16d563d2385fd67d66c5b9260713b02c69c09821895",
+  "family": "Gabarito",
+  "postscriptName": "Gabarito-Regular",
+  "version": [
+    "Version 1.000"
+  ],
+  "weight": 400,
+  "axes": [
+    {
+      "tag": "wght",
+      "min": 400.0,
+      "default": 400.0,
+      "max": 900.0
+    }
+  ],
+  "glyphs": 519,
+  "licenseId": "OFL-1.1",
+  "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+  "copyright": [
+    "Copyright 2023 The Gabarito Project Authors (https://github.com/naipefoundry/gabarito)"
+  ],
+  "manufacturer": [
+    "Naipe Foundry"
+  ],
+  "designer": [
+    "Leandro Assis / Alvaro Franca / Felipe Casaprima"
+  ],
+  "embeddedLicense": [
+    "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+  ],
+  "embeddedLicenseUrl": [
+    "https://scripts.sil.org/OFL"
+  ],
+  "referenceUrl": "https://github.com/naipefoundry/gabarito",
+  "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+  "sampleCoverage": {
+    "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+    "missingCharacters": "春日限定，中文设计与留白。"
+  },
+  "latinOnlyInThisPackage": true
+}

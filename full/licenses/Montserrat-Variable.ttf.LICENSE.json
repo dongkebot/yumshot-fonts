@@ -1,0 +1,43 @@
+{
+  "fontFile": "fonts/Montserrat/Montserrat-Variable.ttf",
+  "fileSha256": "498dc34d0fa45288e0ac5345bd385c98bf81c56ee70209aacfb4a22a6510697c",
+  "family": "Montserrat",
+  "postscriptName": "Montserrat-Thin",
+  "version": [
+    "Version 9.000"
+  ],
+  "weight": 100,
+  "axes": [
+    {
+      "tag": "wght",
+      "min": 100.0,
+      "default": 100.0,
+      "max": 900.0
+    }
+  ],
+  "glyphs": 2677,
+  "licenseId": "OFL-1.1",
+  "basis": "当前未修改字体文件的内嵌许可和版权字段；原始字节SHA与已有索引一致。",
+  "copyright": [
+    "Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)"
+  ],
+  "manufacturer": [
+    "Julieta Ulanovsky"
+  ],
+  "designer": [
+    "Julieta Ulanovsky"
+  ],
+  "embeddedLicense": [
+    "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org"
+  ],
+  "embeddedLicenseUrl": [
+    "https://openfontlicense.org"
+  ],
+  "referenceUrl": "https://github.com/JulietaUla/Montserrat",
+  "onlineReferenceCheck": "本次访问作者或官方仓库确认OFL许可。",
+  "sampleCoverage": {
+    "text": "春日限定，中文设计与留白。0123456789 ABC abc",
+    "missingCharacters": "春日限定，中文设计与留白。"
+  },
+  "latinOnlyInThisPackage": true
+}

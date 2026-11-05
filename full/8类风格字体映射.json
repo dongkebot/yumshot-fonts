@@ -1,0 +1,152 @@
+[
+  {
+    "style": "手写暖感",
+    "chinese": [
+      "Yozai",
+      "Yozai-Bold"
+    ],
+    "latin": [],
+    "note": "悠哉 Regular 400用于自然手写正文，Bold 700用于短标题；保持不规则笔画，不做机械拉伸。",
+    "previewCN": "Yozai-Bold",
+    "previewEN": "Yozai",
+    "chineseFiles": [
+      "fonts/Yozai/Yozai-Regular.ttf",
+      "fonts/Yozai/Yozai-Bold.ttf"
+    ],
+    "latinFiles": []
+  },
+  {
+    "style": "重响·超重无衬线／黑体",
+    "chinese": [
+      "SourceHanSansSC-Heavy"
+    ],
+    "latin": [
+      "Montserrat-Thin"
+    ],
+    "note": "思源黑体 Heavy 900为中文主标题；Montserrat 可变字体用800–900。",
+    "previewCN": "SourceHanSansSC-Heavy",
+    "previewEN": "Montserrat-Thin",
+    "latinWeight": 900,
+    "chineseFiles": [
+      "fonts/SourceHanSansSC/SourceHanSansSC-Heavy.otf"
+    ],
+    "latinFiles": [
+      "fonts/Montserrat/Montserrat-Variable.ttf"
+    ]
+  },
+  {
+    "style": "圆润波普·友善",
+    "chinese": [
+      "JiangChengYuanTi-500W",
+      "JiangChengYuanTi-700W"
+    ],
+    "latin": [
+      "Gabarito-Regular"
+    ],
+    "note": "江城圆体500W为亲和信息文字，700W用于标题；Gabarito可变400–900，波普标题建议800–900。",
+    "previewCN": "JiangChengYuanTi-700W",
+    "previewEN": "Gabarito-Regular",
+    "latinWeight": 900,
+    "chineseFiles": [
+      "fonts/JiangChengYuanTi/JiangChengYuanTi-500W.ttf",
+      "fonts/JiangChengYuanTi/JiangChengYuanTi-700W.ttf"
+    ],
+    "latinFiles": [
+      "fonts/Gabarito/Gabarito-Variable.ttf"
+    ]
+  },
+  {
+    "style": "高对比衬线·精致权威",
+    "chinese": [
+      "SourceHanSerifCN-Heavy",
+      "SourceHanSerifCN-Bold"
+    ],
+    "latin": [
+      "Alegreya-BlackItalic",
+      "Alegreya-Regular"
+    ],
+    "note": "中文用思源宋体Heavy 900或Bold 700建立粗细对比；英文Alegreya Black Italic 900作为强调。Alegreya偏文学与书写性，不是Didot/Bodoni式极端细衬线。",
+    "previewCN": "SourceHanSerifCN-Heavy",
+    "previewEN": "Alegreya-BlackItalic",
+    "chineseFiles": [
+      "fonts/SourceHanSerifCN/SourceHanSerifCN-Heavy.otf",
+      "fonts/SourceHanSerifCN/SourceHanSerifCN-Bold.otf"
+    ],
+    "latinFiles": [
+      "fonts/Alegreya/Alegreya-BlackItalic.ttf",
+      "fonts/Alegreya/Alegreya-Regular.ttf"
+    ]
+  },
+  {
+    "style": "宋体明朝·文气安静",
+    "chinese": [
+      "SourceHanSerifCN-Regular"
+    ],
+    "latin": [
+      "Alegreya-Regular"
+    ],
+    "note": "思源宋体Regular 400配Alegreya Regular 400，适合阅读和安静的编辑版式。",
+    "previewCN": "SourceHanSerifCN-Regular",
+    "previewEN": "Alegreya-Regular",
+    "chineseFiles": [
+      "fonts/SourceHanSerifCN/SourceHanSerifCN-Regular.otf"
+    ],
+    "latinFiles": [
+      "fonts/Alegreya/Alegreya-Regular.ttf"
+    ]
+  },
+  {
+    "style": "毛笔书法·文化正统",
+    "chinese": [
+      "LongCang-Regular"
+    ],
+    "latin": [],
+    "note": "有字库龙藏体Regular 400作自然行书短标题。它是行书方向的近似匹配，不代表碑帖、楷书或庄重典礼字形；正文另配思源宋体。",
+    "previewCN": "LongCang-Regular",
+    "previewEN": "SourceHanSerifCN-Regular",
+    "chineseFiles": [
+      "fonts/LongCang/LongCang-Regular.ttf"
+    ],
+    "latinFiles": []
+  },
+  {
+    "style": "中性 grotesque·通用",
+    "chinese": [
+      "SourceHanSansSC-Regular"
+    ],
+    "latin": [
+      "Montserrat-Thin"
+    ],
+    "note": "中文思源黑体Regular 400；英文Montserrat用400–500。Montserrat是几何无衬线，作为中性通用方案，不等于传统grotesque原字体。",
+    "previewCN": "SourceHanSansSC-Regular",
+    "previewEN": "Montserrat-Thin",
+    "latinWeight": 400,
+    "chineseFiles": [
+      "fonts/SourceHanSansSC/SourceHanSansSC-Regular.otf"
+    ],
+    "latinFiles": [
+      "fonts/Montserrat/Montserrat-Variable.ttf"
+    ]
+  },
+  {
+    "style": "轻宽·优雅时装",
+    "chinese": [
+      "SourceHanSerifCN-ExtraLight"
+    ],
+    "latin": [
+      "Montserrat-Thin",
+      "Alegreya-Italic"
+    ],
+    "note": "思源宋体ExtraLight的真实OS/2字重为250；Montserrat建议200–300，Alegreya Italic 400用于小段强调。宽松字距属于排版参数，不是字体宽度轴。",
+    "previewCN": "SourceHanSerifCN-ExtraLight",
+    "previewEN": "Montserrat-Thin",
+    "latinWeight": 200,
+    "chineseFiles": [
+      "fonts/SourceHanSerifCN/SourceHanSerifCN-ExtraLight.otf"
+    ],
+    "latinFiles": [
+      "fonts/Montserrat/Montserrat-Variable.ttf",
+      "fonts/Alegreya/Alegreya-Italic.ttf"
+    ]
+  }
+]

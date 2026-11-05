@@ -1,0 +1,273 @@
+{
+  "date": "2026-10-23",
+  "fontFamilies": 8,
+  "fontFiles": 16,
+  "sourceFontBytesUnmodified": true,
+  "files": [
+    {
+      "path": "8类风格字体映射.csv",
+      "bytes": 2162,
+      "sha256": "b30454178da6d5bff71a55bcf50ddfa4bded70fe762f6cb3cea9a2c27df4d0cb"
+    },
+    {
+      "path": "8类风格字体映射.json",
+      "bytes": 4590,
+      "sha256": "fcbed250189d5e16813f3eceeb22c15bb4b988eeb8315bc619a23ac6a5b577b6"
+    },
+    {
+      "path": "8类风格字样.png",
+      "bytes": 350392,
+      "sha256": "d168939949d4df82c0089863cd5d83e9d87a0b64d59fbdf18700cb4a46fff8b7"
+    },
+    {
+      "path": "README-安装与许可说明.md",
+      "bytes": 5010,
+      "sha256": "cf65dc78d8ac00cc950cff0b0dbd72fad4ac16626f3b7e08e0430fe38dc52044"
+    },
+    {
+      "path": "fonts/Alegreya/Alegreya-BlackItalic.ttf",
+      "bytes": 324684,
+      "sha256": "dfcbeea98b037ca4fa4fe195db3b86c9de6bee585df14c4a960587637cc6321e"
+    },
+    {
+      "path": "fonts/Alegreya/Alegreya-Italic.ttf",
+      "bytes": 319164,
+      "sha256": "b5f8340d36078797780df0a23392a24f4c67c27429303eedee40ffeff111f417"
+    },
+    {
+      "path": "fonts/Alegreya/Alegreya-Regular.ttf",
+      "bytes": 318140,
+      "sha256": "b2652047d486c44b9da87d5bf0899f989a2423d091e095cd5c03d3f35ce04c0f"
+    },
+    {
+      "path": "fonts/Gabarito/Gabarito-Variable.ttf",
+      "bytes": 158884,
+      "sha256": "1195665410acab3e49e3b16d563d2385fd67d66c5b9260713b02c69c09821895"
+    },
+    {
+      "path": "fonts/JiangChengYuanTi/JiangChengYuanTi-500W.ttf",
+      "bytes": 14913144,
+      "sha256": "8e7cc1282823e4d94b416f7ca16a35712d3e2f13c3e240243967ae665b77ec4e"
+    },
+    {
+      "path": "fonts/JiangChengYuanTi/JiangChengYuanTi-700W.ttf",
+      "bytes": 15397384,
+      "sha256": "f096f0f3dcb27194578d604c123e305b4cf1030e852887a852d283a03cc2f422"
+    },
+    {
+      "path": "fonts/LongCang/LongCang-Regular.ttf",
+      "bytes": 5150988,
+      "sha256": "589c21c68807f3105e885c4218efb7046be0a8b5c78c395c5371c01e7cee1b2d"
+    },
+    {
+      "path": "fonts/Montserrat/Montserrat-Variable.ttf",
+      "bytes": 688600,
+      "sha256": "498dc34d0fa45288e0ac5345bd385c98bf81c56ee70209aacfb4a22a6510697c"
+    },
+    {
+      "path": "fonts/SourceHanSansSC/SourceHanSansSC-Heavy.otf",
+      "bytes": 17798184,
+      "sha256": "4a8b2ee4f041fa56c7a5561f36e13ed6780eec66161c30274fc90b0c5ba7cea2"
+    },
+    {
+      "path": "fonts/SourceHanSansSC/SourceHanSansSC-Regular.otf",
+      "bytes": 16437608,
+      "sha256": "84bbd4ace91d327b3ad1a581c688196278a4e41308520176f419180064e4af2b"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN/SourceHanSerifCN-Bold.otf",
+      "bytes": 11772444,
+      "sha256": "90118f6c20e798e12ea9e5b476ce920de94de2f505fc83fe641989d32da38a65"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN/SourceHanSerifCN-ExtraLight.otf",
+      "bytes": 10372344,
+      "sha256": "ce698f51e49dbe89bb8663ed02da541ce50b8cae4cd6bc3110ad52d969296db4"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN/SourceHanSerifCN-Heavy.otf",
+      "bytes": 11304840,
+      "sha256": "78101f93fb76951da79728a7ece95a974fb8f95f2024fa50792bc79627951a07"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN/SourceHanSerifCN-Regular.otf",
+      "bytes": 11257480,
+      "sha256": "1ddaf8183212f81e5b9a5b8c87a24aab8b7d2ff8f05eb3f6eaab341a7a285e58"
+    },
+    {
+      "path": "fonts/Yozai/Yozai-Bold.ttf",
+      "bytes": 12715088,
+      "sha256": "5c9eee84d1f6870379b552c97317f3d6a9c499f4c77a82704c3263870fe1ab01"
+    },
+    {
+      "path": "fonts/Yozai/Yozai-Regular.ttf",
+      "bytes": 13102628,
+      "sha256": "c2d042c3c4c1a75f09a4becc0ce6a31e8d6f7854abd803fd20d7fab6a6a37d8a"
+    },
+    {
+      "path": "licenses/Alegreya-BlackItalic.ttf.LICENSE.json",
+      "bytes": 1271,
+      "sha256": "9aee2b524d68a36a6d16e3268caf5e1666eb5380ffcec8717cc68d8a09abb94c"
+    },
+    {
+      "path": "licenses/Alegreya-BlackItalic.ttf.LICENSE.txt",
+      "bytes": 4433,
+      "sha256": "19d616cd8b525f84ab64807094a0e9b040741f1966c15143c46c8c76d237f920"
+    },
+    {
+      "path": "licenses/Alegreya-Italic.ttf.LICENSE.json",
+      "bytes": 1261,
+      "sha256": "b31109641578becab8756ef702e41997652be375e66593cdcd8fe7d892441fbe"
+    },
+    {
+      "path": "licenses/Alegreya-Italic.ttf.LICENSE.txt",
+      "bytes": 4433,
+      "sha256": "19d616cd8b525f84ab64807094a0e9b040741f1966c15143c46c8c76d237f920"
+    },
+    {
+      "path": "licenses/Alegreya-Regular.ttf.LICENSE.json",
+      "bytes": 1263,
+      "sha256": "d5debe296bdc720c613e471f2fddb9befea8ba676b16b9c962bda0d016c49333"
+    },
+    {
+      "path": "licenses/Alegreya-Regular.ttf.LICENSE.txt",
+      "bytes": 4433,
+      "sha256": "19d616cd8b525f84ab64807094a0e9b040741f1966c15143c46c8c76d237f920"
+    },
+    {
+      "path": "licenses/Gabarito-Variable.ttf.LICENSE.json",
+      "bytes": 1357,
+      "sha256": "ea1932cc61c8c2135f3884b3ca70fe0008971969464a3b6a62f387ed237c60e1"
+    },
+    {
+      "path": "licenses/Gabarito-Variable.ttf.LICENSE.txt",
+      "bytes": 4453,
+      "sha256": "d85262e46fe01331fa79ae2f4557f5b651917beff1a6a7b82947b549cf9d29a2"
+    },
+    {
+      "path": "licenses/JiangChengYuanTi-500W.ttf.LICENSE.json",
+      "bytes": 1282,
+      "sha256": "221f7a66fd75fe76b4a79f770da029fed520abefd6185afbc3d6f347ef113328"
+    },
+    {
+      "path": "licenses/JiangChengYuanTi-500W.ttf.LICENSE.txt",
+      "bytes": 4496,
+      "sha256": "9d6d2fdbcc5da2410b08e1dce73c4637179c1ba62492f3638bfaa38f2079821d"
+    },
+    {
+      "path": "licenses/JiangChengYuanTi-700W.ttf.LICENSE.json",
+      "bytes": 1282,
+      "sha256": "4dd6f6af38da663970f560e3bdd6392917f2db14276443feeca50ab29d1aa176"
+    },
+    {
+      "path": "licenses/JiangChengYuanTi-700W.ttf.LICENSE.txt",
+      "bytes": 4496,
+      "sha256": "9d6d2fdbcc5da2410b08e1dce73c4637179c1ba62492f3638bfaa38f2079821d"
+    },
+    {
+      "path": "licenses/LongCang-Regular.ttf.LICENSE.json",
+      "bytes": 1200,
+      "sha256": "218a607db9a562ef30f324880278739f9155226d424796917f23a6c111eba50f"
+    },
+    {
+      "path": "licenses/LongCang-Regular.ttf.LICENSE.txt",
+      "bytes": 4403,
+      "sha256": "f74d35b7017e5744ad121814c90cb443bd2cac80f427f6bc649a2d0e58bb7fad"
+    },
+    {
+      "path": "licenses/Montserrat-Variable.ttf.LICENSE.json",
+      "bytes": 1338,
+      "sha256": "3edae69c5ca1f35cd2b5893db5184fc7b9ec21a61489ccce87e8803ac6acc325"
+    },
+    {
+      "path": "licenses/Montserrat-Variable.ttf.LICENSE.txt",
+      "bytes": 4428,
+      "sha256": "b53ae61d63b33f5264297c718608f0b8ec03ff3c90533dd7e5a8f17ac1c6bf24"
+    },
+    {
+      "path": "licenses/SourceHanSansSC-Heavy.otf.LICENSE.json",
+      "bytes": 1675,
+      "sha256": "b181e121c7de06d40a83154a38cea20d1acb2d6239a7ae0484f73b83b2a01aef"
+    },
+    {
+      "path": "licenses/SourceHanSansSC-Heavy.otf.LICENSE.txt",
+      "bytes": 4811,
+      "sha256": "a5a7fc9f0b2ce5502b7827494e5954c4a8accf189e38834324487eb847ca3bcc"
+    },
+    {
+      "path": "licenses/SourceHanSansSC-Regular.otf.LICENSE.json",
+      "bytes": 1679,
+      "sha256": "b781d54c7de20d04eb85cb3a3b0ef654163dd6f90dd66aaa595814e2b00e3a0d"
+    },
+    {
+      "path": "licenses/SourceHanSansSC-Regular.otf.LICENSE.txt",
+      "bytes": 4811,
+      "sha256": "a5a7fc9f0b2ce5502b7827494e5954c4a8accf189e38834324487eb847ca3bcc"
+    },
+    {
+      "path": "licenses/SourceHanSerifCN-Bold.otf.LICENSE.json",
+      "bytes": 1779,
+      "sha256": "051fd68716e2b03f84b292bd188a06ec3f2ed81ee82a96f51f085675ce4fbc0c"
+    },
+    {
+      "path": "licenses/SourceHanSerifCN-Bold.otf.LICENSE.txt",
+      "bytes": 4907,
+      "sha256": "981424be611e5715be58b008c274e6fdb49a5ed58e76d7c0b08eefdfb82a041d"
+    },
+    {
+      "path": "licenses/SourceHanSerifCN-ExtraLight.otf.LICENSE.json",
+      "bytes": 1791,
+      "sha256": "6ebb128b2a90ddb4fda352e3624622f052c7b6692bdf1173d76b361748e0ff06"
+    },
+    {
+      "path": "licenses/SourceHanSerifCN-ExtraLight.otf.LICENSE.txt",
+      "bytes": 4907,
+      "sha256": "981424be611e5715be58b008c274e6fdb49a5ed58e76d7c0b08eefdfb82a041d"
+    },
+    {
+      "path": "licenses/SourceHanSerifCN-Heavy.otf.LICENSE.json",
+      "bytes": 1781,
+      "sha256": "72d1544afaccd4d413a002b941513dd125fd5cf093dbadcca3c37cd877f36605"
+    },
+    {
+      "path": "licenses/SourceHanSerifCN-Heavy.otf.LICENSE.txt",
+      "bytes": 4907,
+      "sha256": "981424be611e5715be58b008c274e6fdb49a5ed58e76d7c0b08eefdfb82a041d"
+    },
+    {
+      "path": "licenses/SourceHanSerifCN-Regular.otf.LICENSE.json",
+      "bytes": 1785,
+      "sha256": "adf1998461ee27eec89e642ec26145aadd3f6eef2195e0c9d2573faa0d8628ce"
+    },
+    {
+      "path": "licenses/SourceHanSerifCN-Regular.otf.LICENSE.txt",
+      "bytes": 4907,
+      "sha256": "981424be611e5715be58b008c274e6fdb49a5ed58e76d7c0b08eefdfb82a041d"
+    },
+    {
+      "path": "licenses/Yozai-Bold.ttf.LICENSE.json",
+      "bytes": 1356,
+      "sha256": "104bc41dbf47068dabf70cc75bb07c388633467366ff35d250f1016c3fad97d3"
+    },
+    {
+      "path": "licenses/Yozai-Bold.ttf.LICENSE.txt",
+      "bytes": 4555,
+      "sha256": "43c5315051f293d27a8de4c61608278a9146dfe412229034fb4bd80c26ce6ac4"
+    },
+    {
+      "path": "licenses/Yozai-Regular.ttf.LICENSE.json",
+      "bytes": 1354,
+      "sha256": "840b3deaa1d9f11d2396d89bf9412832b04d5da46f3eebd9e8517aeed5c1a23c"
+    },
+    {
+      "path": "licenses/Yozai-Regular.ttf.LICENSE.txt",
+      "bytes": 4555,
+      "sha256": "43c5315051f293d27a8de4c61608278a9146dfe412229034fb4bd80c26ce6ac4"
+    },
+    {
+      "path": "字体清单.json",
+      "bytes": 24621,
+      "sha256": "22af27ac397f20a710a903c4cdbaa1e0c0e6b2bf4a8adb6ed10feea7e1145fa9"
+    }
+  ]
+}

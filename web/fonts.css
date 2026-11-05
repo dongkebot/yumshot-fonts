@@ -1,0 +1,31 @@
+/* 海报模版字体（子集）。App 端请打包完整字体，见 字体清单.md */
+@font-face { font-family: "YS Yozai"; src: url("woff2/yozai.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Yozai"; src: url("woff2/yozaib.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Marker"; src: url("woff2/marker.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS WenKai"; src: url("woff2/wenkai.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Hei"; src: url("woff2/hei.woff2") format("woff2"); font-weight: 100 900; font-style: normal; font-display: block; }
+@font-face { font-family: "YS GlowC"; src: url("woff2/glowc.woff2") format("woff2"); font-weight: 800; font-style: normal; font-display: block; }
+@font-face { font-family: "YS GlowX"; src: url("woff2/glowxl.woff2") format("woff2"); font-weight: 300; font-style: normal; font-display: block; }
+@font-face { font-family: "YS GlowX"; src: url("woff2/glowxb.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: block; }
+@font-face { font-family: "YS JiangCheng"; src: url("woff2/jc5.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: block; }
+@font-face { font-family: "YS JiangCheng"; src: url("woff2/jc7.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Chill"; src: url("woff2/chill.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS QingKe"; src: url("woff2/qingke.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Smiley"; src: url("woff2/smiley.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Song"; src: url("woff2/song.woff2") format("woff2"); font-weight: 200 900; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Zhuque"; src: url("woff2/zhuque.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS LongCang"; src: url("woff2/longcang.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS MaShan"; src: url("woff2/mashan.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Playfair"; src: url("woff2/playfair.woff2") format("woff2"); font-weight: 400 900; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Playfair"; src: url("woff2/playfairi.woff2") format("woff2"); font-weight: 400 900; font-style: italic; font-display: block; }
+@font-face { font-family: "YS Alegreya"; src: url("woff2/alegreya.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Alegreya"; src: url("woff2/alegreyai.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: block; }
+@font-face { font-family: "YS Alegreya"; src: url("woff2/alegreyab.woff2") format("woff2"); font-weight: 900; font-style: italic; font-display: block; }
+@font-face { font-family: "YS Instrument"; src: url("woff2/instr.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Instrument"; src: url("woff2/instri.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: block; }
+@font-face { font-family: "YS Montserrat"; src: url("woff2/mont.woff2") format("woff2"); font-weight: 100 900; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Gabarito"; src: url("woff2/gabarito.woff2") format("woff2"); font-weight: 400 900; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Anton"; src: url("woff2/anton.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Caveat"; src: url("woff2/caveat.woff2") format("woff2"); font-weight: 400 700; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Fraunces"; src: url("woff2/fraunces.woff2") format("woff2"); font-weight: 100 900; font-style: normal; font-display: block; }
+@font-face { font-family: "YS Fraunces"; src: url("woff2/frauncesi.woff2") format("woff2"); font-weight: 100 900; font-style: italic; font-display: block; }

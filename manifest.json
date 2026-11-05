@@ -1,0 +1,542 @@
+{
+  "name": "yumshot-fonts",
+  "version": "2026-11-04",
+  "repo": "https://github.com/dongkebot/yumshot-fonts",
+  "rawBase": "https://raw.githubusercontent.com/dongkebot/yumshot-fonts/main/",
+  "license": "全部 SIL OFL 1.1；可商用、可嵌入；不得单独售卖字体文件；分发时附许可文本",
+  "web": {
+    "about": "模版库 30 款 woff2 子集（GB2312 一级 + 常见菜单字 + 模版用字），网页/画布渲染用",
+    "css": "web/fonts.css",
+    "fonts": [
+      {
+        "key": "yozai",
+        "cssFamily": "YS Yozai",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/yozai.woff2",
+        "bytes": 1155428,
+        "sha256": "ec9069f2c75ebb152a7b5c023b788668eb537bc020a87e016e8935b7f8596c6c"
+      },
+      {
+        "key": "yozaib",
+        "cssFamily": "YS Yozai",
+        "weight": "700",
+        "style": "normal",
+        "path": "web/woff2/yozaib.woff2",
+        "bytes": 1145916,
+        "sha256": "cf6800993f54962d8a4342f5c5680f1d967fbc92330501150f0e445b78365381"
+      },
+      {
+        "key": "marker",
+        "cssFamily": "YS Marker",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/marker.woff2",
+        "bytes": 324116,
+        "sha256": "972b6a0cb1d0f4c9b283cd5f9abf876f00023d2f2c49db71cb664d2e3f444812"
+      },
+      {
+        "key": "wenkai",
+        "cssFamily": "YS WenKai",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/wenkai.woff2",
+        "bytes": 907908,
+        "sha256": "a9f375a0131d57e89e378db72060e1e5a83ce5fc7f98d734d16faa7b3f25cea0"
+      },
+      {
+        "key": "hei",
+        "cssFamily": "YS Hei",
+        "weight": "100 900",
+        "style": "normal",
+        "path": "web/woff2/hei.woff2",
+        "bytes": 1096120,
+        "sha256": "a8573353af0fc703065e9b306d0938a9d58e32ebe1be69a946e8a36813ae43c3"
+      },
+      {
+        "key": "glowc",
+        "cssFamily": "YS GlowC",
+        "weight": "800",
+        "style": "normal",
+        "path": "web/woff2/glowc.woff2",
+        "bytes": 838432,
+        "sha256": "90ba5c55171eb10c3fa9a8e7171c9ec42051a2ef869e2eedfade5dc8c7247664"
+      },
+      {
+        "key": "glowxl",
+        "cssFamily": "YS GlowX",
+        "weight": "300",
+        "style": "normal",
+        "path": "web/woff2/glowxl.woff2",
+        "bytes": 839996,
+        "sha256": "6c18caa54cafa1e1f229615b102aa5594bbc819fb1526314be6e096efa507b88"
+      },
+      {
+        "key": "glowxb",
+        "cssFamily": "YS GlowX",
+        "weight": "700",
+        "style": "normal",
+        "path": "web/woff2/glowxb.woff2",
+        "bytes": 835964,
+        "sha256": "9ba86aa8e704e5f735f3a847f9226480fb68e230b9d25e0e1c01e45dc4a00f81"
+      },
+      {
+        "key": "jc5",
+        "cssFamily": "YS JiangCheng",
+        "weight": "500",
+        "style": "normal",
+        "path": "web/woff2/jc5.woff2",
+        "bytes": 732932,
+        "sha256": "9d19d833113b00f6fbb69f7951f78164ad74e3769ed48625c4a9e9a21fe7f529"
+      },
+      {
+        "key": "jc7",
+        "cssFamily": "YS JiangCheng",
+        "weight": "700",
+        "style": "normal",
+        "path": "web/woff2/jc7.woff2",
+        "bytes": 759392,
+        "sha256": "0f6b3f8bd8caca1714e3feb5ca92447919524f24889abd13ca5d3ef4f491cf42"
+      },
+      {
+        "key": "chill",
+        "cssFamily": "YS Chill",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/chill.woff2",
+        "bytes": 725744,
+        "sha256": "6092e97f441722eebd344b7428a13f60c8fc1c36eb28c0c9bbad81ec0944967c"
+      },
+      {
+        "key": "qingke",
+        "cssFamily": "YS QingKe",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/qingke.woff2",
+        "bytes": 626428,
+        "sha256": "0ef5ef47c4626042e98e8de7bbeb29842d95ed095990a2335034b393dabcdfdc"
+      },
+      {
+        "key": "smiley",
+        "cssFamily": "YS Smiley",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/smiley.woff2",
+        "bytes": 517468,
+        "sha256": "948b7c99e36a851fdf3cac498cda92de2d173a2ad4b40ccbb109040279fa0079"
+      },
+      {
+        "key": "song",
+        "cssFamily": "YS Song",
+        "weight": "200 900",
+        "style": "normal",
+        "path": "web/woff2/song.woff2",
+        "bytes": 1443512,
+        "sha256": "87e3f78bde5783015322c6d492b8b4511286ce39ac791b91da5e141070563d86"
+      },
+      {
+        "key": "zhuque",
+        "cssFamily": "YS Zhuque",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/zhuque.woff2",
+        "bytes": 1403392,
+        "sha256": "96f3c99580637003d0564e36367488d02aa2ae391ab12924e212922621e949fa"
+      },
+      {
+        "key": "longcang",
+        "cssFamily": "YS LongCang",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/longcang.woff2",
+        "bytes": 1592444,
+        "sha256": "34562f76a4d5a34181dbf72364fe9283f3bc5b267e6fcba90078608ef9d2c0e3"
+      },
+      {
+        "key": "mashan",
+        "cssFamily": "YS MaShan",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/mashan.woff2",
+        "bytes": 1764296,
+        "sha256": "2cca68d66b0af5efd3e7fc637cea958b6d38551c23172ec1a045afc3bdb95001"
+      },
+      {
+        "key": "playfair",
+        "cssFamily": "YS Playfair",
+        "weight": "400 900",
+        "style": "normal",
+        "path": "web/woff2/playfair.woff2",
+        "bytes": 38864,
+        "sha256": "5c74bd1b8315ffc076f51173b7bdf45bcb0078e42cfddf88b9ce91f640f55243"
+      },
+      {
+        "key": "playfairi",
+        "cssFamily": "YS Playfair",
+        "weight": "400 900",
+        "style": "italic",
+        "path": "web/woff2/playfairi.woff2",
+        "bytes": 40308,
+        "sha256": "0a71f34692e0181b7dccc03b296125d03c5adefa0579e7d6a44005ebec86e9d9"
+      },
+      {
+        "key": "alegreya",
+        "cssFamily": "YS Alegreya",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/alegreya.woff2",
+        "bytes": 22776,
+        "sha256": "03a7914e1940cca3d4429736c6b40234f05b1e5a66a0f807827284c84a9201d6"
+      },
+      {
+        "key": "alegreyai",
+        "cssFamily": "YS Alegreya",
+        "weight": "400",
+        "style": "italic",
+        "path": "web/woff2/alegreyai.woff2",
+        "bytes": 22988,
+        "sha256": "6558a704c4d008d69e3b2664ed0e49a61a71db0f928956b273ee3709d59312ec"
+      },
+      {
+        "key": "alegreyab",
+        "cssFamily": "YS Alegreya",
+        "weight": "900",
+        "style": "italic",
+        "path": "web/woff2/alegreyab.woff2",
+        "bytes": 22592,
+        "sha256": "0ca195aba91849934f1ca5e72130bc2a29223ff89201061d12b103e0556a134a"
+      },
+      {
+        "key": "instr",
+        "cssFamily": "YS Instrument",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/instr.woff2",
+        "bytes": 12244,
+        "sha256": "308055d3353595dff73b8d537eebb23fe32ebc07027af0da6f6f9cabb0aee17a"
+      },
+      {
+        "key": "instri",
+        "cssFamily": "YS Instrument",
+        "weight": "400",
+        "style": "italic",
+        "path": "web/woff2/instri.woff2",
+        "bytes": 12632,
+        "sha256": "88e92380456cbc39b595a51aebea500e897997542f766577d13602abc4e14749"
+      },
+      {
+        "key": "mont",
+        "cssFamily": "YS Montserrat",
+        "weight": "100 900",
+        "style": "normal",
+        "path": "web/woff2/mont.woff2",
+        "bytes": 41960,
+        "sha256": "92992187887329a5ed94c6ea45e4ff360c5b609a173e50676d44e2006fcd387e"
+      },
+      {
+        "key": "gabarito",
+        "cssFamily": "YS Gabarito",
+        "weight": "400 900",
+        "style": "normal",
+        "path": "web/woff2/gabarito.woff2",
+        "bytes": 29976,
+        "sha256": "2eefb6a97ae53d68f9bf1d753be49451fee92fe2e62eaa5f51fc8c30a9c9eccf"
+      },
+      {
+        "key": "anton",
+        "cssFamily": "YS Anton",
+        "weight": "400",
+        "style": "normal",
+        "path": "web/woff2/anton.woff2",
+        "bytes": 10296,
+        "sha256": "06da6012009898f5fefce7e8b8c1fbf6adf0075e6adfbe7e4963a790c8005140"
+      },
+      {
+        "key": "caveat",
+        "cssFamily": "YS Caveat",
+        "weight": "400 700",
+        "style": "normal",
+        "path": "web/woff2/caveat.woff2",
+        "bytes": 67916,
+        "sha256": "cb38e64a4e7b88dc2330b325aba5fd3aef197dc3243623d9465f4810b56cbb4d"
+      },
+      {
+        "key": "fraunces",
+        "cssFamily": "YS Fraunces",
+        "weight": "100 900",
+        "style": "normal",
+        "path": "web/woff2/fraunces.woff2",
+        "bytes": 92880,
+        "sha256": "37004339f44c538295c970c20175daae041658585d3d81786a042f480f1541ef"
+      },
+      {
+        "key": "frauncesi",
+        "cssFamily": "YS Fraunces",
+        "weight": "100 900",
+        "style": "italic",
+        "path": "web/woff2/frauncesi.woff2",
+        "bytes": 115896,
+        "sha256": "b795f10271131ef9ec0b9343b355d78922571a8eb373fe43a4e34d8b2935e97e"
+      }
+    ],
+    "licenses": [
+      "web/licenses/Alegreya-BlackItalic.ttf.LICENSE.txt",
+      "web/licenses/Alegreya-Italic.ttf.LICENSE.txt",
+      "web/licenses/Alegreya-Regular.ttf.LICENSE.txt",
+      "web/licenses/Gabarito-Variable.ttf.LICENSE.txt",
+      "web/licenses/JiangChengYuanTi-500W.ttf.LICENSE.txt",
+      "web/licenses/JiangChengYuanTi-700W.ttf.LICENSE.txt",
+      "web/licenses/Montserrat-Variable.ttf.LICENSE.txt",
+      "web/licenses/Yozai-Bold.ttf.LICENSE.txt",
+      "web/licenses/Yozai-Regular.ttf.LICENSE.txt",
+      "web/licenses/anton-OFL.txt",
+      "web/licenses/caveat-OFL.txt",
+      "web/licenses/chillround-OFL.txt",
+      "web/licenses/fraunces-OFL.txt",
+      "web/licenses/glowsans-OFL.txt",
+      "web/licenses/instrumentserif-OFL.txt",
+      "web/licenses/longcang-OFL.txt",
+      "web/licenses/lxgwmarkergothic-OFL.txt",
+      "web/licenses/mashanzheng-OFL.txt",
+      "web/licenses/notosanssc-OFL.txt",
+      "web/licenses/notoserifsc-OFL.txt",
+      "web/licenses/playfairdisplay-OFL.txt",
+      "web/licenses/smiley-LICENSE.txt",
+      "web/licenses/wenkai-LICENSE.txt",
+      "web/licenses/zcoolqingkehuangyou-OFL.txt",
+      "web/licenses/zhuque-OFL.txt"
+    ]
+  },
+  "full": {
+    "about": "8 类风格字体包，16 个完整 TTF/OTF，覆盖生僻字、导出给 App 用",
+    "fonts": [
+      {
+        "file": "Alegreya-BlackItalic.ttf",
+        "family": "Alegreya",
+        "path": "full/fonts/Alegreya/Alegreya-BlackItalic.ttf",
+        "bytes": 324684,
+        "sha256": "dfcbeea98b037ca4fa4fe195db3b86c9de6bee585df14c4a960587637cc6321e",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/Alegreya-BlackItalic.ttf.LICENSE.txt"
+      },
+      {
+        "file": "Alegreya-Italic.ttf",
+        "family": "Alegreya",
+        "path": "full/fonts/Alegreya/Alegreya-Italic.ttf",
+        "bytes": 319164,
+        "sha256": "b5f8340d36078797780df0a23392a24f4c67c27429303eedee40ffeff111f417",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/Alegreya-Italic.ttf.LICENSE.txt"
+      },
+      {
+        "file": "Alegreya-Regular.ttf",
+        "family": "Alegreya",
+        "path": "full/fonts/Alegreya/Alegreya-Regular.ttf",
+        "bytes": 318140,
+        "sha256": "b2652047d486c44b9da87d5bf0899f989a2423d091e095cd5c03d3f35ce04c0f",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/Alegreya-Regular.ttf.LICENSE.txt"
+      },
+      {
+        "file": "Gabarito-Variable.ttf",
+        "family": "Gabarito",
+        "path": "full/fonts/Gabarito/Gabarito-Variable.ttf",
+        "bytes": 158884,
+        "sha256": "1195665410acab3e49e3b16d563d2385fd67d66c5b9260713b02c69c09821895",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/Gabarito-Variable.ttf.LICENSE.txt"
+      },
+      {
+        "file": "JiangChengYuanTi-500W.ttf",
+        "family": "JiangChengYuanTi",
+        "path": "full/fonts/JiangChengYuanTi/JiangChengYuanTi-500W.ttf",
+        "bytes": 14913144,
+        "sha256": "8e7cc1282823e4d94b416f7ca16a35712d3e2f13c3e240243967ae665b77ec4e",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/JiangChengYuanTi-500W.ttf.LICENSE.txt"
+      },
+      {
+        "file": "JiangChengYuanTi-700W.ttf",
+        "family": "JiangChengYuanTi",
+        "path": "full/fonts/JiangChengYuanTi/JiangChengYuanTi-700W.ttf",
+        "bytes": 15397384,
+        "sha256": "f096f0f3dcb27194578d604c123e305b4cf1030e852887a852d283a03cc2f422",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/JiangChengYuanTi-700W.ttf.LICENSE.txt"
+      },
+      {
+        "file": "LongCang-Regular.ttf",
+        "family": "LongCang",
+        "path": "full/fonts/LongCang/LongCang-Regular.ttf",
+        "bytes": 5150988,
+        "sha256": "589c21c68807f3105e885c4218efb7046be0a8b5c78c395c5371c01e7cee1b2d",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/LongCang-Regular.ttf.LICENSE.txt"
+      },
+      {
+        "file": "Montserrat-Variable.ttf",
+        "family": "Montserrat",
+        "path": "full/fonts/Montserrat/Montserrat-Variable.ttf",
+        "bytes": 688600,
+        "sha256": "498dc34d0fa45288e0ac5345bd385c98bf81c56ee70209aacfb4a22a6510697c",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/Montserrat-Variable.ttf.LICENSE.txt"
+      },
+      {
+        "file": "SourceHanSansSC-Heavy.otf",
+        "family": "SourceHanSansSC",
+        "path": "full/fonts/SourceHanSansSC/SourceHanSansSC-Heavy.otf",
+        "bytes": 17798184,
+        "sha256": "4a8b2ee4f041fa56c7a5561f36e13ed6780eec66161c30274fc90b0c5ba7cea2",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/SourceHanSansSC-Heavy.otf.LICENSE.txt"
+      },
+      {
+        "file": "SourceHanSansSC-Regular.otf",
+        "family": "SourceHanSansSC",
+        "path": "full/fonts/SourceHanSansSC/SourceHanSansSC-Regular.otf",
+        "bytes": 16437608,
+        "sha256": "84bbd4ace91d327b3ad1a581c688196278a4e41308520176f419180064e4af2b",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/SourceHanSansSC-Regular.otf.LICENSE.txt"
+      },
+      {
+        "file": "SourceHanSerifCN-Bold.otf",
+        "family": "SourceHanSerifCN",
+        "path": "full/fonts/SourceHanSerifCN/SourceHanSerifCN-Bold.otf",
+        "bytes": 11772444,
+        "sha256": "90118f6c20e798e12ea9e5b476ce920de94de2f505fc83fe641989d32da38a65",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/SourceHanSerifCN-Bold.otf.LICENSE.txt"
+      },
+      {
+        "file": "SourceHanSerifCN-ExtraLight.otf",
+        "family": "SourceHanSerifCN",
+        "path": "full/fonts/SourceHanSerifCN/SourceHanSerifCN-ExtraLight.otf",
+        "bytes": 10372344,
+        "sha256": "ce698f51e49dbe89bb8663ed02da541ce50b8cae4cd6bc3110ad52d969296db4",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/SourceHanSerifCN-ExtraLight.otf.LICENSE.txt"
+      },
+      {
+        "file": "SourceHanSerifCN-Heavy.otf",
+        "family": "SourceHanSerifCN",
+        "path": "full/fonts/SourceHanSerifCN/SourceHanSerifCN-Heavy.otf",
+        "bytes": 11304840,
+        "sha256": "78101f93fb76951da79728a7ece95a974fb8f95f2024fa50792bc79627951a07",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/SourceHanSerifCN-Heavy.otf.LICENSE.txt"
+      },
+      {
+        "file": "SourceHanSerifCN-Regular.otf",
+        "family": "SourceHanSerifCN",
+        "path": "full/fonts/SourceHanSerifCN/SourceHanSerifCN-Regular.otf",
+        "bytes": 11257480,
+        "sha256": "1ddaf8183212f81e5b9a5b8c87a24aab8b7d2ff8f05eb3f6eaab341a7a285e58",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/SourceHanSerifCN-Regular.otf.LICENSE.txt"
+      },
+      {
+        "file": "Yozai-Bold.ttf",
+        "family": "Yozai",
+        "path": "full/fonts/Yozai/Yozai-Bold.ttf",
+        "bytes": 12715088,
+        "sha256": "5c9eee84d1f6870379b552c97317f3d6a9c499f4c77a82704c3263870fe1ab01",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/Yozai-Bold.ttf.LICENSE.txt"
+      },
+      {
+        "file": "Yozai-Regular.ttf",
+        "family": "Yozai",
+        "path": "full/fonts/Yozai/Yozai-Regular.ttf",
+        "bytes": 13102628,
+        "sha256": "c2d042c3c4c1a75f09a4becc0ce6a31e8d6f7854abd803fd20d7fab6a6a37d8a",
+        "license": "OFL-1.1",
+        "licenseFile": "full/licenses/Yozai-Regular.ttf.LICENSE.txt"
+      }
+    ],
+    "styles": [
+      {
+        "style": "手写暖感",
+        "chinese": [
+          "full/fonts/Yozai/Yozai-Regular.ttf",
+          "full/fonts/Yozai/Yozai-Bold.ttf"
+        ],
+        "latin": [],
+        "note": "悠哉 Regular 400用于自然手写正文，Bold 700用于短标题；保持不规则笔画，不做机械拉伸。"
+      },
+      {
+        "style": "重响·超重无衬线／黑体",
+        "chinese": [
+          "full/fonts/SourceHanSansSC/SourceHanSansSC-Heavy.otf"
+        ],
+        "latin": [
+          "full/fonts/Montserrat/Montserrat-Variable.ttf"
+        ],
+        "note": "思源黑体 Heavy 900为中文主标题；Montserrat 可变字体用800–900。"
+      },
+      {
+        "style": "圆润波普·友善",
+        "chinese": [
+          "full/fonts/JiangChengYuanTi/JiangChengYuanTi-500W.ttf",
+          "full/fonts/JiangChengYuanTi/JiangChengYuanTi-700W.ttf"
+        ],
+        "latin": [
+          "full/fonts/Gabarito/Gabarito-Variable.ttf"
+        ],
+        "note": "江城圆体500W为亲和信息文字，700W用于标题；Gabarito可变400–900，波普标题建议800–900。"
+      },
+      {
+        "style": "高对比衬线·精致权威",
+        "chinese": [
+          "full/fonts/SourceHanSerifCN/SourceHanSerifCN-Heavy.otf",
+          "full/fonts/SourceHanSerifCN/SourceHanSerifCN-Bold.otf"
+        ],
+        "latin": [
+          "full/fonts/Alegreya/Alegreya-BlackItalic.ttf",
+          "full/fonts/Alegreya/Alegreya-Regular.ttf"
+        ],
+        "note": "中文用思源宋体Heavy 900或Bold 700建立粗细对比；英文Alegreya Black Italic 900作为强调。Alegreya偏文学与书写性，不是Didot/Bodoni式极端细衬线。"
+      },
+      {
+        "style": "宋体明朝·文气安静",
+        "chinese": [
+          "full/fonts/SourceHanSerifCN/SourceHanSerifCN-Regular.otf"
+        ],
+        "latin": [
+          "full/fonts/Alegreya/Alegreya-Regular.ttf"
+        ],
+        "note": "思源宋体Regular 400配Alegreya Regular 400，适合阅读和安静的编辑版式。"
+      },
+      {
+        "style": "毛笔书法·文化正统",
+        "chinese": [
+          "full/fonts/LongCang/LongCang-Regular.ttf"
+        ],
+        "latin": [],
+        "note": "有字库龙藏体Regular 400作自然行书短标题。它是行书方向的近似匹配，不代表碑帖、楷书或庄重典礼字形；正文另配思源宋体。"
+      },
+      {
+        "style": "中性 grotesque·通用",
+        "chinese": [
+          "full/fonts/SourceHanSansSC/SourceHanSansSC-Regular.otf"
+        ],
+        "latin": [
+          "full/fonts/Montserrat/Montserrat-Variable.ttf"
+        ],
+        "note": "中文思源黑体Regular 400；英文Montserrat用400–500。Montserrat是几何无衬线，作为中性通用方案，不等于传统grotesque原字体。"
+      },
+      {
+        "style": "轻宽·优雅时装",
+        "chinese": [
+          "full/fonts/SourceHanSerifCN/SourceHanSerifCN-ExtraLight.otf"
+        ],
+        "latin": [
+          "full/fonts/Montserrat/Montserrat-Variable.ttf",
+          "full/fonts/Alegreya/Alegreya-Italic.ttf"
+        ],
+        "note": "思源宋体ExtraLight的真实OS/2字重为250；Montserrat建议200–300，Alegreya Italic 400用于小段强调。宽松字距属于排版参数，不是字体宽度轴。"
+      }
+    ]
+  }
+}
